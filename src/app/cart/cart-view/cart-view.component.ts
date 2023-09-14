@@ -27,8 +27,11 @@ export class CartViewComponent implements OnInit {
     for (let item of this.cartItems) {
       total += item.price;
     }
-
     return total;
+  }
+
+  clearCart(): void {
+    this.cartService.clearCart().subscribe();
   }
 
 
