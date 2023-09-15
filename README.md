@@ -1,4 +1,4 @@
-# AmazingPokemonPaintings
+# Amazing Pokemon "NFTs"
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.2.
 
